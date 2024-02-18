@@ -30,3 +30,5 @@ Next, the optimizer generates 𝗮𝗹𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝘃𝗲 𝗲�
 Finally, the optimizer 𝗰𝗵𝗼𝗼𝘀𝗲𝘀 𝘁𝗵𝗲 𝗲𝘅𝗲𝗰𝘂𝘁𝗶𝗼𝗻 𝗽𝗹𝗮𝗻 with the lowest cost as the optimal execution plan for the query. This plan is then used to execute the query.
 
 Check in the image the 𝗼𝗿𝗱𝗲𝗿 𝗶𝗻 𝘄𝗵𝗶𝗰𝗵 𝗦𝗤𝗟 𝗾𝘂𝗲𝗿𝗶𝗲𝘀 𝗿𝘂𝗻.
+
+![sql-performance](https://github.com/lang-codes/sql-tips/assets/3424344/1e3f0f32-d682-4415-a85e-1ee61e2a98bf)
